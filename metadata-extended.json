@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://cardano.securestaking.io/img/favicon.png",
-        "url_png_logo": "https://cardano.securestaking.io/img/logo.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/joco-ding/adapool/main/icon-bantn.png",
+        "url_png_logo": "https://raw.githubusercontent.com/joco-ding/adapool/main/logo-bantn.png",
         "location": "Banten, Indonesia",
         "social": {
             "twitter_handle": "cuitanjoko",
